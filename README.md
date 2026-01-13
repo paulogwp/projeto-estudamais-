@@ -116,12 +116,12 @@ O Estuda+ foi desenvolvido como um projeto acadêmico no curso técnico de Desen
 
 Natália Nádia - Desenvolvedora 
 
-GitHub: @nanatnadia08
+GitHub: @nanatnadia
 
 E-mail: natalianadia82@gmail.com
 
 Paulo Cezar - Desenvolvedor
 
-GitHub: @
+GitHub: @paulogwp
 
-E-mail: @gmail.com
+E-mail: paulocontafake17@gmail.com
