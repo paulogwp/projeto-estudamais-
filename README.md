@@ -124,4 +124,5 @@ Paulo Cezar - Desenvolvedor
 
 GitHub: @paulogwp
 
-E-mail: paulocontafake17@gmail.com
+E-mail: paulopjrmiranda@gmail.com
+
