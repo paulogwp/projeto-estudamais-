@@ -2,7 +2,7 @@
 
 Plataforma digital de apoio à organização e prática de estudos por meio de questões e simulados.
 
-🎥 Vídeo de apresentação: https://youtu.be/87pZEuVYs08
+🎥 Vídeo de apresentação: https://youtu.be/NiT9QL56iaE
 
 📄 Documentação do projeto: https://docs.google.com/document/d/1jDL6X8UtcwvXWysas-rjIog4GdEwzZpVuj2PojkQI2A/edit?usp=sharing
 -------
